@@ -12,7 +12,6 @@
     }
   ],
   "require": {
-    "ext-xdebug": ">=7.1",
     "php": ">=7.1",
     "psr/log": "^1.0",
     "stk2k/util": "~0.1",
